@@ -10,20 +10,16 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Taha's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+My name is Taha, I am cloud developer and a serverless fanboy.
 
-[✍️ Introduce yourself]
+I started this challenge to commit to learning more about the cloud and share my learnings with this awesome community.
 
-[✍️ Tell us why you started this challenge]
+By the end of this challenge I want to have passed at least one AWS certificate exam and go back to blogging.
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- Twitter [@ThisIsTeee](https://twitter.com/ThisIsTeee)
+- [LinkedIn](https://www.linkedin.com/in/tahasaleh/)
 
 ## Stepping out the door
 
