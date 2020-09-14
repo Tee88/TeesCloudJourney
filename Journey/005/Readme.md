@@ -1,52 +1,21 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# My Fifth Day
 
 ## Cloud Research
+I started studying for the AWS Certified Cloud Practitioner exam.
+I completed the following sections in the [AWS Certified Cloud Practitioner Training 2020 - Full Course](https://youtu.be/3hLmDS179YE)
+- Introduction
+- Cloud concepts
+- AWS global infrastructure
+- Getting started
+- Hands on 
+- EC2 AMIs
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+## Resources
+As mentioned above, I am using the [AWS Certified Cloud Practitioner Training 2020 - Full Course](https://youtu.be/3hLmDS179YE) on FCC's youtube channel.
+I am also using 2 great resources for exam notes, which I highly recommend for people who love taking notes:
+1. [Kayleigh Oliver's personal blog](http://kayleigholiver.com/aws-cloud-practitioner-preparation-exam-notes/)
+2. [Digital Cloud exam cheat sheets](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter](https://twitter.com/ThisIsTeee/status/1305374033303580672?s=20)
